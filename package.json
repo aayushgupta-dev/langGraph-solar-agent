@@ -1,0 +1,31 @@
+{
+  "name": "langraph-tutorial",
+  "version": "1.0.0",
+  "description": "AI agent built using LangGraph in Node JS.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aayushgupta-dev/langGraph-solar-agent.git"
+  },
+  "keywords": [
+    "Agentic",
+    "AI",
+    "LangGraph",
+    "GenAI"
+  ],
+  "author": "Aayush Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aayushgupta-dev/langGraph-solar-agent/issues"
+  },
+  "homepage": "https://github.com/aayushgupta-dev/langGraph-solar-agent#readme",
+  "dependencies": {
+    "@langchain/aws": "^0.1.7",
+    "@langchain/community": "^0.3.37",
+    "@langchain/core": "^0.3.43",
+    "@langchain/langgraph": "^0.2.60"
+  }
+}
